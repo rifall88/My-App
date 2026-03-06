@@ -32,4 +32,5 @@ SMTP_PASS=
 ```
 
 Jika ingin akses swaggernya langsung bisa klik link di bawah ini 👇👇👇
-https://myapp.projectbase.my.id/swagger/
+
+[Link Swagger](https://myapp.projectbase.my.id/swagger/)
